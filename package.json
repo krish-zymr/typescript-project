@@ -1,0 +1,40 @@
+{
+  "name": "typescriplt_project",
+  "version": "1.0.0",
+  "description": "TypeScript project of previous js project ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "watch": "nodemon src/index.ts"
+  },
+  "author": "Krish Kithani",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/body-parser": "^1.19.5",
+    "@types/connect-mongodb-session": "^2.4.7",
+    "@types/express": "^4.17.21",
+    "@types/express-session": "^1.18.0",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/mongoose": "^5.11.97",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "connect-mongodb-session": "^2.2.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^8.5.0",
+    "winston": "^3.13.1",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}

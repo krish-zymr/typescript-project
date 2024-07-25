@@ -1,0 +1,744 @@
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{
+  message: 'Hello from menuLogger1',
+  level: 'info',
+  service: 'MenuService1'
+}
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{
+  service: 'MenuService1',
+  '$__': InternalCache {
+    activePaths: ctor {
+      paths: { name: 'require' },
+      states: { require: { name: true }, default: {}, modify: {} },
+      map: [Function (anonymous)]
+    },
+    pathsToScopes: {
+      ingredients: {
+        name: 'Lemonade',
+        price: 2.99,
+        taste: 'Sour',
+        is_drink: true,
+        ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+        num_sales: 150,
+        _id: new ObjectId('669f4842b214d4953097ea17'),
+        __v: 0
+      }
+    },
+    op: null,
+    saving: null,
+    '$versionError': null,
+    saveOptions: null,
+    validating: null,
+    validationError: undefined,
+    cachedRequired: {},
+    backup: {
+      activePaths: {
+        modify: {
+          name: true,
+          price: true,
+          taste: true,
+          is_drink: true,
+          ingredients: true,
+          num_sales: true,
+          __v: true
+        },
+        default: { _id: true }
+      },
+      validationError: null,
+      errors: undefined
+    },
+    inserting: true,
+    savedState: {}
+  },
+  _doc: {
+    name: 'Lemonade',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    _id: new ObjectId('669f4842b214d4953097ea17'),
+    __v: 0
+  },
+  '$errors': undefined,
+  '$isNew': false,
+  level: 'info',
+  message: 'Data Saved Sucessfully'
+}
+{
+  '0': {
+    _id: new ObjectId('667e958911043deb97e83f7f'),
+    name: 'Lemonade',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('669f4842b214d4953097ea17'),
+    name: 'Lemonade',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    __v: 0
+  },
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{
+  service: 'MenuService1',
+  '$__': InternalCache {
+    activePaths: ctor {
+      paths: { name: 'require' },
+      states: { require: { name: true }, default: {}, modify: {} },
+      map: [Function (anonymous)]
+    },
+    pathsToScopes: {
+      ingredients: {
+        name: 'Lemonade',
+        price: 2.99,
+        taste: 'Sour',
+        is_drink: true,
+        ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+        num_sales: 150,
+        _id: new ObjectId('669f4aae519aa3375f4ee5d6'),
+        __v: 0
+      }
+    },
+    op: null,
+    saving: null,
+    '$versionError': null,
+    saveOptions: null,
+    validating: null,
+    validationError: undefined,
+    cachedRequired: {},
+    backup: {
+      activePaths: {
+        modify: {
+          name: true,
+          price: true,
+          taste: true,
+          is_drink: true,
+          ingredients: true,
+          num_sales: true,
+          __v: true
+        },
+        default: { _id: true }
+      },
+      validationError: null,
+      errors: undefined
+    },
+    inserting: true,
+    savedState: {}
+  },
+  _doc: {
+    name: 'Lemonade',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    _id: new ObjectId('669f4aae519aa3375f4ee5d6'),
+    __v: 0
+  },
+  '$errors': undefined,
+  '$isNew': false,
+  level: 'info',
+  message: 'Data Saved Sucessfully'
+}
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{
+  '0': {
+    _id: new ObjectId('667e958911043deb97e83f7f'),
+    name: 'Lemonade',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('669f4842b214d4953097ea17'),
+    name: 'Lemonade',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('669f4aae519aa3375f4ee5d6'),
+    name: 'Lemonade',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    __v: 0
+  },
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{
+  '0': {
+    _id: new ObjectId('667e96b111043deb97e83f82'),
+    name: 'Chocolate Cake',
+    price: 15.49,
+    taste: 'Sweet',
+    is_drink: false,
+    ingredients: [ 'Flour', 'Sugar', 'Cocoa', 'Eggs', 'Butter' ],
+    num_sales: 200,
+    __v: 0
+  },
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{
+  '0': {
+    _id: new ObjectId('667e96b111043deb97e83f82'),
+    name: 'Chocolate Cake',
+    price: 15.49,
+    taste: 'Sweet',
+    is_drink: false,
+    ingredients: [ 'Flour', 'Sugar', 'Cocoa', 'Eggs', 'Butter' ],
+    num_sales: 200,
+    __v: 0
+  },
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{
+  '0': {
+    _id: new ObjectId('667e96b111043deb97e83f82'),
+    name: 'Chocolate Cake',
+    price: 15.49,
+    taste: 'Sweet',
+    is_drink: false,
+    ingredients: [ 'Flour', 'Sugar', 'Cocoa', 'Eggs', 'Butter' ],
+    num_sales: 200,
+    __v: 0
+  },
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{
+  '0': {
+    _id: new ObjectId('667e96b111043deb97e83f82'),
+    name: 'Chocolate Cake',
+    price: 15.49,
+    taste: 'Sweet',
+    is_drink: false,
+    ingredients: [ 'Flour', 'Sugar', 'Cocoa', 'Eggs', 'Butter' ],
+    num_sales: 200,
+    __v: 0
+  },
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{
+  '0': {
+    _id: new ObjectId('667e96b111043deb97e83f82'),
+    name: 'Chocolate Cake',
+    price: 15.49,
+    taste: 'Sweet',
+    is_drink: false,
+    ingredients: [ 'Flour', 'Sugar', 'Cocoa', 'Eggs', 'Butter' ],
+    num_sales: 200,
+    __v: 0
+  },
+  service: 'MenuService1',
+  level: 'info',
+  message: 'Data Found Sucessfully'
+}
+{
+  service: 'MenuService1',
+  '$__': InternalCache {
+    activePaths: ctor {
+      paths: { name: 'require' },
+      states: { require: { name: true }, default: {}, modify: {} },
+      map: [Function (anonymous)]
+    },
+    pathsToScopes: {
+      ingredients: {
+        name: 'Lemonade',
+        price: 2.99,
+        taste: 'Sour',
+        is_drink: true,
+        ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+        num_sales: 150,
+        _id: new ObjectId('669f51c5bb8a3eda2a44d047'),
+        __v: 0
+      }
+    },
+    op: null,
+    saving: null,
+    '$versionError': null,
+    saveOptions: null,
+    validating: null,
+    validationError: undefined,
+    cachedRequired: {},
+    backup: {
+      activePaths: {
+        modify: {
+          name: true,
+          price: true,
+          taste: true,
+          is_drink: true,
+          ingredients: true,
+          num_sales: true,
+          __v: true
+        },
+        default: { _id: true }
+      },
+      validationError: null,
+      errors: undefined
+    },
+    inserting: true,
+    savedState: {}
+  },
+  _doc: {
+    name: 'Lemonade',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    _id: new ObjectId('669f51c5bb8a3eda2a44d047'),
+    __v: 0
+  },
+  '$errors': undefined,
+  '$isNew': false,
+  level: 'info',
+  message: 'Data Saved Sucessfully'
+}
+{
+  service: 'MenuService1',
+  '$__': InternalCache {
+    activePaths: ctor {
+      paths: { name: 'require' },
+      states: { require: { name: true }, default: {}, modify: {} },
+      map: [Function (anonymous)]
+    },
+    pathsToScopes: {
+      ingredients: {
+        name: '23',
+        price: 2.99,
+        taste: 'Sour',
+        is_drink: true,
+        ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+        num_sales: 150,
+        _id: new ObjectId('669f5a26c05eb41dd0092162'),
+        __v: 0
+      }
+    },
+    op: null,
+    saving: null,
+    '$versionError': null,
+    saveOptions: null,
+    validating: null,
+    validationError: undefined,
+    cachedRequired: {},
+    backup: {
+      activePaths: {
+        modify: {
+          name: true,
+          price: true,
+          taste: true,
+          is_drink: true,
+          ingredients: true,
+          num_sales: true,
+          __v: true
+        },
+        default: { _id: true }
+      },
+      validationError: null,
+      errors: undefined
+    },
+    inserting: true,
+    savedState: {}
+  },
+  _doc: {
+    name: '23',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    _id: new ObjectId('669f5a26c05eb41dd0092162'),
+    __v: 0
+  },
+  '$errors': undefined,
+  '$isNew': false,
+  level: 'info',
+  message: 'Data Saved Sucessfully'
+}
+{
+  service: 'MenuService1',
+  '$__': InternalCache {
+    activePaths: ctor {
+      paths: { name: 'require' },
+      states: { require: { name: true }, default: {}, modify: {} },
+      map: [Function (anonymous)]
+    },
+    pathsToScopes: {
+      ingredients: {
+        name: '23',
+        price: 2.99,
+        taste: 'Sour',
+        is_drink: true,
+        ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+        num_sales: 150,
+        _id: new ObjectId('669f5b6d17836476fff2e3f7'),
+        __v: 0
+      }
+    },
+    op: null,
+    saving: null,
+    '$versionError': null,
+    saveOptions: null,
+    validating: null,
+    validationError: undefined,
+    cachedRequired: {},
+    backup: {
+      activePaths: {
+        modify: {
+          name: true,
+          price: true,
+          taste: true,
+          is_drink: true,
+          ingredients: true,
+          num_sales: true,
+          __v: true
+        },
+        default: { _id: true }
+      },
+      validationError: null,
+      errors: undefined
+    },
+    inserting: true,
+    savedState: {}
+  },
+  _doc: {
+    name: '23',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    _id: new ObjectId('669f5b6d17836476fff2e3f7'),
+    __v: 0
+  },
+  '$errors': undefined,
+  '$isNew': false,
+  level: 'info',
+  message: 'Data Saved Sucessfully'
+}
+{
+  service: 'MenuService1',
+  '$__': InternalCache {
+    activePaths: ctor {
+      paths: { name: 'require' },
+      states: { require: { name: true }, default: {}, modify: {} },
+      map: [Function (anonymous)]
+    },
+    pathsToScopes: {
+      ingredients: {
+        name: 'ChavanPrash',
+        price: 2.99,
+        taste: 'Sour',
+        is_drink: true,
+        ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+        num_sales: 150,
+        _id: new ObjectId('669f5ba217836476fff2e3f9'),
+        __v: 0
+      }
+    },
+    op: null,
+    saving: null,
+    '$versionError': null,
+    saveOptions: null,
+    validating: null,
+    validationError: undefined,
+    cachedRequired: {},
+    backup: {
+      activePaths: {
+        modify: {
+          name: true,
+          price: true,
+          taste: true,
+          is_drink: true,
+          ingredients: true,
+          num_sales: true,
+          __v: true
+        },
+        default: { _id: true }
+      },
+      validationError: null,
+      errors: undefined
+    },
+    inserting: true,
+    savedState: {}
+  },
+  _doc: {
+    name: 'ChavanPrash',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    _id: new ObjectId('669f5ba217836476fff2e3f9'),
+    __v: 0
+  },
+  '$errors': undefined,
+  '$isNew': false,
+  level: 'info',
+  message: 'Data Saved Sucessfully'
+}
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{ message: 'Data Found', level: 'info', service: 'MenuService1' }
+{
+  service: 'MenuService1',
+  '$__': InternalCache {
+    activePaths: ctor {
+      paths: { name: 'require' },
+      states: { require: { name: true }, default: {}, modify: {} },
+      map: [Function (anonymous)]
+    },
+    pathsToScopes: {
+      ingredients: {
+        name: 'ChavanPrash',
+        price: 2.99,
+        taste: 'Sour',
+        is_drink: true,
+        ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+        num_sales: 150,
+        _id: new ObjectId('669f5d714710ffec53fbb7e8'),
+        __v: 0
+      }
+    },
+    op: null,
+    saving: null,
+    '$versionError': null,
+    saveOptions: null,
+    validating: null,
+    validationError: undefined,
+    cachedRequired: {},
+    backup: {
+      activePaths: {
+        modify: {
+          name: true,
+          price: true,
+          taste: true,
+          is_drink: true,
+          ingredients: true,
+          num_sales: true,
+          __v: true
+        },
+        default: { _id: true }
+      },
+      validationError: null,
+      errors: undefined
+    },
+    inserting: true,
+    savedState: {}
+  },
+  _doc: {
+    name: 'ChavanPrash',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    _id: new ObjectId('669f5d714710ffec53fbb7e8'),
+    __v: 0
+  },
+  '$errors': undefined,
+  '$isNew': false,
+  level: 'info',
+  message: 'Data Saved Sucessfully'
+}
+{
+  service: 'MenuService1',
+  '$__': InternalCache {
+    activePaths: ctor {
+      paths: { name: 'require' },
+      states: { require: { name: true }, default: {}, modify: {} },
+      map: [Function (anonymous)]
+    },
+    pathsToScopes: {
+      ingredients: {
+        name: 'ChavanPrash',
+        price: 2.99,
+        taste: 'Sour',
+        is_drink: true,
+        ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+        num_sales: 150,
+        _id: new ObjectId('669f5da2063cd52bd60a0f09'),
+        __v: 0
+      }
+    },
+    op: null,
+    saving: null,
+    '$versionError': null,
+    saveOptions: null,
+    validating: null,
+    validationError: undefined,
+    cachedRequired: {},
+    backup: {
+      activePaths: {
+        modify: {
+          name: true,
+          price: true,
+          taste: true,
+          is_drink: true,
+          ingredients: true,
+          num_sales: true,
+          __v: true
+        },
+        default: { _id: true }
+      },
+      validationError: null,
+      errors: undefined
+    },
+    inserting: true,
+    savedState: {}
+  },
+  _doc: {
+    name: 'ChavanPrash',
+    price: 2.99,
+    taste: 'Sour',
+    is_drink: true,
+    ingredients: [ 'Water', 'Lemon', 'Sugar' ],
+    num_sales: 150,
+    _id: new ObjectId('669f5da2063cd52bd60a0f09'),
+    __v: 0
+  },
+  '$errors': undefined,
+  '$isNew': false,
+  level: 'info',
+  message: 'Data Saved Sucessfully'
+}

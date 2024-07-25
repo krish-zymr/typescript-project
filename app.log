@@ -1,0 +1,81 @@
+{"level":"info","message":"Heloo Wniston"}
+{"error":{},"level":"error","message":"Error message haon yeh"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"warn","message":"hdjshdj"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"warn","message":"hdjshdj"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"warn","message":"hdjshdj"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"warn","message":"hdjshdj"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"warn","message":"hdjshdj"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"warn","message":"hdjshdj"}
+{"level":"info","message":"Heloo Wniston"}
+{"level":"error","message":"Error message haon yeh"}
+{"level":"warn","message":"hdjshdj"}
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+2024-07-16T12:12:49.318Z info Heloo Wniston
+2024-07-16T12:12:49.321Z error Error message haon yeh
+2024-07-16T12:12:49.322Z warn hdjshdj
+undefined
+undefined
+undefined
+[32minfo[39m:    Heloo Wniston
+[31merror[39m:   Error message haon yeh
+[33mwarn[39m:    hdjshdj
+2024-07-16T12:14:06.515Z info Heloo Wniston
+2024-07-16T12:14:06.517Z error Error message haon yeh
+2024-07-16T12:14:06.518Z warn hdjshdj
+{"level":"info","message":"Heloo Wniston","timestamp":"2024-07-16T12:15:48.766Z"}
+{"level":"error","message":"Error message haon yeh","timestamp":"2024-07-16T12:15:48.770Z"}
+{"level":"warn","message":"hdjshdj","timestamp":"2024-07-16T12:15:48.770Z"}
+{"level":"info","message":"Heloo Wniston","timestamp":"2024-07-17T05:33:02.670Z"}
+{"level":"error","message":"Error message haon yeh","timestamp":"2024-07-17T05:33:02.675Z"}
+{"level":"warn","message":"hdjshdj","timestamp":"2024-07-17T05:33:02.676Z"}
+{"level":"info","message":"Heloo Wniston","timestamp":"2024-07-17T05:34:12.560Z"}
+{"level":"error","message":"Error message haon yeh","timestamp":"2024-07-17T05:34:12.564Z"}
+{"level":"warn","message":"hdjshdj","timestamp":"2024-07-17T05:34:12.565Z"}
+{"level":"info","message":"Heloo Wniston","timestamp":"2024-07-17T05:34:48.044Z"}
+{"level":"error","message":"Error message haon yeh","timestamp":"2024-07-17T05:34:48.051Z"}
+{"level":"warn","message":"hdjshdj","timestamp":"2024-07-17T05:34:48.052Z"}
+{"level":"info","message":"Heloo Wniston","timestamp":"2024-07-17T05:47:59.026Z"}
+{"level":"error","message":"Error message haon yeh","timestamp":"2024-07-17T05:47:59.029Z"}
+{"level":"warn","message":"hdjshdj","timestamp":"2024-07-17T05:47:59.030Z"}
+{"level":"info","message":"Heloo Wniston","timestamp":"2024-07-17T05:50:20.414Z"}
+{"level":"error","message":"Error message haon yeh","timestamp":"2024-07-17T05:50:20.417Z"}
+{"level":"warn","message":"hdjshdj","timestamp":"2024-07-17T05:50:20.417Z"}
+{"level":"info","message":"Heloo Wniston","timestamp":"2024-07-17T06:15:54.520Z"}
+{"level":"error","message":"Error message haon yeh","timestamp":"2024-07-17T06:15:54.523Z"}
+{"level":"warn","message":"hdjshdj","timestamp":"2024-07-17T06:15:54.524Z"}
+{"level":"info","message":"Heloo Wniston","timestamp":"2024-07-17T06:21:57.003Z"}
+{"level":"error","message":"Error message haon yeh","timestamp":"2024-07-17T06:21:57.006Z"}
+{"level":"warn","message":"hdjshdj","timestamp":"2024-07-17T06:21:57.006Z"}
+{"level":"info","message":"Heloo Wniston","timestamp":"2024-07-17T06:22:21.260Z"}
+{"level":"error","message":"Error message haon yeh","timestamp":"2024-07-17T06:22:21.263Z"}
+{"level":"warn","message":"hdjshdj","timestamp":"2024-07-17T06:22:21.264Z"}
